@@ -10,7 +10,7 @@ This blockchain includes mining to create new blocks, checking the correctness o
 git clone https://github.com/dinhminhx/BlockChain.git
 npm i
 ```
-
+We can do
 ```
 tsc -w index
 ```
@@ -18,4 +18,8 @@ On another terminal
 
 ```
 npm run watch
+```
+or 
+```
+node run index.js
 ```
