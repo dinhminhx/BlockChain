@@ -21,5 +21,5 @@ npm run watch
 ```
 or 
 ```
-node run index.js
+node index.js
 ```
